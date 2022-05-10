@@ -1,0 +1,2 @@
+import domonkos
+domonkos.megoldas()
